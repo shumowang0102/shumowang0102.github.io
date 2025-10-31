@@ -69,6 +69,6 @@ redirect_from:
 
 # 🌍 Visitor Map
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6i9rVlUG_bl3h1CvHZTWOFVsCwQGlKa0bl5pAzYhybE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=6i9rVlUG_bl3h1CvHZTWOFVsCwQGlKa0bl5pAzYhybE&co=b7d6ec&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
 
