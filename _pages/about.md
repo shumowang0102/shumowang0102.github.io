@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -16,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-* [ ] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget 
+* [ ] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget
 * [ ] testtest
 * [ ] 123123123123123123
 
-
-<a href='https://scholar.google.com/citations?user=xTNPUUAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fshumowang0102%2Fshumowang0102.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
+`<a href='https://scholar.google.com/citations?user=xTNPUUAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fraw.githubusercontent.com%2Fshumowang0102%2Fshumowang0102.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">``</a>`
 
 # 🔥 News
 
@@ -38,13 +37,12 @@ redirect_from:
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=xTNPUUAAAAAJ&citation_for_view=xTNPUUAAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='xTNPUUAAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=xTNPUUAAAAAJ&citation_for_view=xTNPUUAAAAAJ:ALROH1vI_8AC) `<strong><span class='show_paper_citations' data='xTNPUUAAAAAJ:ALROH1vI_8AC'>``</strong>`
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 </div>
 </div>
-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
@@ -69,6 +67,36 @@ redirect_from:
 
 # 🌍 Visitor Map
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=6i9rVlUG_bl3h1CvHZTWOFVsCwQGlKa0bl5pAzYhybE&co=b7d6ec&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=488&t=tt&d=6i9rVlUG_bl3h1CvHZTWOFVsCwQGlKa0bl5pAzYhybE&co=a8cce5'></script>
 
+<div class="logo-row">
+  <img src="../images/unitologo.png" alt="">
+<img src="../images/neu1.jpg" alt="">
+<img src="../images/neu3.png" alt="">
+</div>
+
+<style>
+.logo-row {
+  display: flex;           /* 让图片横向排列 */
+  align-items: center;     /* 垂直居中 */
+  justify-content: center; /* 水平居中，可按需改成 space-between 等 */
+  gap: 20px;               /* 图片之间的间距 */
+}
+
+.logo-row img {
+  height: 80px;            /* 控制图片高度，可根据需要调整 */
+  width: auto;             /* 保持比例 */
+}
+</style>
+
+
+
+<footer class="site-footer">
+  <p>© 2025 Shumo Wang. All rights reserved.</p>
+  <p>
+    Template adapted from
+    <a href="https://github.com/RayeRen/acad-homepage.github.io"
+       target="_blank" rel="noopener">Yi Ren</a>.
+  </p>
+</footer>
 
