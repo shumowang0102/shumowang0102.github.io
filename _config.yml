@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shumo Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shumo Wang homepage."
-  location         : "Shenyang, China. TO, IT"
+  bio              : "Northeastern University & University of Turin"
+  location         : "Turin, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xTNPUUAAAAAJ"
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/wsm6636/" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/shumo-wang-wsm02200059/" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-9659-8395" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
