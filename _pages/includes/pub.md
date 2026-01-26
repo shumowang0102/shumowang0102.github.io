@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RTSS 2025</div><img src='images/2025_RTSS_Jitter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Jitter Propagation in Task Chains**](https://2025.rtss.org/program/index.html)\\
+[**Jitter Propagation in Task Chains**](https://ieeexplore.ieee.org/abstract/document/11315061https://2025.rtss.org/program/index.html)\\
 Shumo Wang, Enrico Bini, Qingxu Deng, Martina Maggio
 
 - *Accepted by The 46th IEEE Real-Time Systems Symposium • December 2–5, 2025 • Boston, MA, USA*
@@ -12,6 +12,7 @@ Shumo Wang, Enrico Bini, Qingxu Deng, Martina Maggio
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSA</div><img src='images/LAG_08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -19,10 +20,11 @@ Shumo Wang, Enrico Bini, Qingxu Deng, Martina Maggio
 Yuhan Lin, Qingxu Deng, Meiling Han, Zhiwei Feng, Shumo Wang, Qize Peng
 
 - *Accepted by Journal of Systems Architecture
-Volume 147, February 2024, 103045* [](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=xTNPUUAAAAAJ&citation_for_view=xTNPUUAAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='xTNPUUAAAAAJ:d1gkVwhDpl0C'></span></strong>
+  Volume 147, February 2024, 103045* [](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=xTNPUUAAAAAJ&citation_for_view=xTNPUUAAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='xTNPUUAAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RTCSA 2023</div><img src='images/LAG_08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -34,4 +36,3 @@ Yuhan Lin, Jinghao Sun, Qingxu Deng, Meilin Han, Zhiwei Feng, Shumo Wang
 
 </div>
 </div>
-
