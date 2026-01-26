@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RTSS 2025</div><img src='images/2025_RTSS_Jitter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Jitter Propagation in Task Chains**](https://ieeexplore.ieee.org/abstract/document/11315061https://2025.rtss.org/program/index.html)\\
+[**Jitter Propagation in Task Chains**](https://ieeexplore.ieee.org/abstract/document/11315061)\\
 Shumo Wang, Enrico Bini, Qingxu Deng, Martina Maggio
 
 - *Accepted by The 46th IEEE Real-Time Systems Symposium • December 2–5, 2025 • Boston, MA, USA*
