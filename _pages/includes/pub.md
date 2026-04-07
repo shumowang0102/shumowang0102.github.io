@@ -6,7 +6,7 @@
 [**Jitter Propagation in Task Chains**](https://ieeexplore.ieee.org/abstract/document/11315061)\\
 Shumo Wang, Enrico Bini, Qingxu Deng, Martina Maggio
 
-- *Accepted by The 46th IEEE Real-Time Systems Symposium • December 2–5, 2025 • Boston, MA, USA*
+- *Accepted by The 46th IEEE Real-Time Systems Symposium • December 2–5, 2025 • Boston, MA, USA*[](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=xTNPUUAAAAAJ&citation_for_view=xTNPUUAAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='xTNPUUAAAAAJ:9yKSN-GCB0IC'></span></strong>
 - The [Python code](https://github.com/wsm6636/jitter_event_code) that implements the evaluation is publicly available.
 
 </div>
